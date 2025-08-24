@@ -19,3 +19,8 @@ head 6 比normal字体还小
 这是代码块
 🖥️
 '''
+
+
+## practice for adding image
+![Image of a waterfall](https://img.favpng.com/9/22/1/waterfall-png-favpng-bDiKQPKHfLYiGyWruCazN3Ex8.jpg)
+
