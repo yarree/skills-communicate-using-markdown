@@ -23,8 +23,8 @@ head 6 比normal字体还小
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-## practice for adding image
-![](https://img.favpng.com/9/22/1/waterfall-png-favpng-bDiKQPKHfLYiGyWruCazN3Ex8.jpg)
+
+
 
 
 
